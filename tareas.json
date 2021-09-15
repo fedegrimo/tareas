@@ -1,0 +1,21 @@
+[{
+    "nombre":"Alumno 1",
+    "promedio" : 4,
+    "aprobado":false
+},
+{
+    "nombre":"Alumno 2",
+    "promedio" : 8,
+    "aprobado":true
+},
+{
+    "nombre":"Alumno 3",
+    "promedio" : 6,
+    "aprobado":false
+},
+{
+    "nombre":"Alumno 4",
+    "promedio" : "7.4",
+    "aprobado":true
+}
+]
